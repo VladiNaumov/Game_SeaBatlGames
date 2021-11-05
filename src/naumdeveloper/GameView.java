@@ -1,6 +1,9 @@
 package naumdeveloper;
 
 import javax.swing.*;
+import java.awt.*;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
 
 public class GameView extends JFrame {
     private static final long serialVersionUID = 1L;
